@@ -1,0 +1,24 @@
+
+  body {
+    /* background color of web pages */
+    background-color: #00adb5;
+  }
+  hr {
+    /* 3 values: top,left&right,bottom of the border */
+    border-style: dotted none none;
+    /* color of dots */
+    border-color: grey;
+    /* size of dots */
+    border-width: 5px;
+    /* length of the horizontal line of dots as % of displayed page */
+    width: 5%;
+  }
+  img {
+    height: 200px; /* change size of the img you find in html table */
+  }
+  h1{
+    color: #393e46;
+  }
+  h3{
+    color: #393e46;
+  }
